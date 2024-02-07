@@ -3,8 +3,9 @@ target/
 .mvn/
 .project
 mvnw
-.HELP.md
+HELP.md
 mvnw.cmd
 .classpath
 bin/ 
-
+README.md
+.gitignore
