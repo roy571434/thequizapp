@@ -1,1 +1,10 @@
-
+target/
+.settings/
+.mvn/
+.project
+mvnw
+HELP.md
+mvnw.cmd
+.classpath
+bin/ 
+.gitignore
