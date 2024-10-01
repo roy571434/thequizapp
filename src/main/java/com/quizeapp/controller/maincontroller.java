@@ -41,7 +41,7 @@ public class maincontroller {
 
 	String flag="java";
 	
-	@GetMapping("/home")
+	@GetMapping("/")
 	private String getHome() {
 		System.out.println("Homee");
 		return "home";
